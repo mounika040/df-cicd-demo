@@ -1,0 +1,9 @@
+{
+	"name": "df2104-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b9272d7b-914e-4edf-9a00-a1f62b93c1a7",
+		"tenantId": "a2cb44d6-f664-4274-9b1f-62418e8b6028"
+	}
+}
